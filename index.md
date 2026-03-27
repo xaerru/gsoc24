@@ -75,7 +75,7 @@
 
   - Testing for GSSAPI Authentication (Merged) - [link](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/490)
 
-  - Implementing GSSAPI Key Exchange (Open) - [link](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/505)
+  - Implementing GSSAPI Key Exchange (Merged) - [link](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/505)
 
 - Before GSoC period
 
@@ -94,16 +94,7 @@
 
 - "gssapi-keyex" authentication method has been implemented.
 
-
-## **What's left to do**
-
-- Supporting "null" hostkey algorithm for both libssh client and server.
-
-- Improve documentation further.
-
-- Finishing up and merging the GSSAPI Key Exchange [merge request](https://gitlab.com/libssh/libssh-mirror/-/merge_requests/505).
-
-- Implementation of the modern Key exchange algorithms from RFC 8732.
+- Support "null" hostkey algorithm for both libssh client and server.
 
 ## **Challenges and Learnings**
 
